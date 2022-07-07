@@ -8,8 +8,4 @@ Skills: Linux / Cisco / Juniper / Ansible / BASH
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergey-chubik)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sergey-chubik&show_icons=true)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sergey-chubik)  
-
 ![Profile views](https://gpvc.arturio.dev/sergey-chubik)  
